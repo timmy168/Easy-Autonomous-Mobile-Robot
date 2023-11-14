@@ -18,3 +18,6 @@ This checkpoint encompasses two key tasks:
 
 # L298N H-Bridge
 ![image](https://github.com/timmy168/Easy-Autonomous-Mobile-Robot-/blob/main/ckpt2/LN298.png)https://github.com/timmy168/Easy-Autonomous-Mobile-Robot-/blob/main/ckpt2/LN298.png)
+
+# DC Motor
+![image](https://github.com/timmy168/Easy-Autonomous-Mobile-Robot-/blob/main/ckpt2/DC_motor.png)
