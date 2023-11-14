@@ -1,0 +1,9 @@
+<launch>
+    <node name="pi_publisher" pkg="ckpt1"
+type="pi_publisher" output="screen" />
+    <node name="pi_sublisher" pkg="ckpt1"
+type="pi_subscriber" output="screen" />
+    <node name="rosserial_node" pkg="rosserial_python" 
+type="serial_node.py" output="screen">
+    <param name="port" value="/dev/ttyACM0" /> </node>
+</launch>
