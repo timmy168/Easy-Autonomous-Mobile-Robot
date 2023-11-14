@@ -15,3 +15,6 @@ This checkpoint encompasses two key tasks:
 (6) Li-po battery
 (7) screws
 (8) screwdriver
+
+# L298N H-Bridge
+![image](https://github.com/timmy168/Easy-Autonomous-Mobile-Robot-/blob/main/ckpt2/LN298.png)https://github.com/timmy168/Easy-Autonomous-Mobile-Robot-/blob/main/ckpt2/LN298.png)
